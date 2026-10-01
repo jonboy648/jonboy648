@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD%2C100:30D6C8&height=170&section=header&text=Jon%20Cackler&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=36&desc=Variety%20Vault%203D%20%C2%B7%20custom%20tools%20%C2%B7%20an%20agent%20fleet%20that%20runs%20the%20shop&descAlignY=58&descSize=15">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A3FD6%2C100:0E9488&height=170&section=header&text=Jon%20Cackler&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=36&desc=Variety%20Vault%203D%20%C2%B7%20custom%20tools%20%C2%B7%20an%20agent%20fleet%20that%20runs%20the%20shop&descAlignY=58&descSize=15">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A3FD6%2C100:0E9488&height=170&section=header&text=Jon%20Cackler&fontColor=1F2328&fontSize=40&animation=fadeIn&fontAlignY=36&desc=Variety%20Vault%203D%20%C2%B7%20custom%20tools%20%C2%B7%20an%20agent%20fleet%20that%20runs%20the%20shop&descAlignY=58&descSize=15">
 </picture>
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&size=18&pause=1400&color=30D6C8&center=true&vCenter=true&width=640&lines=Owner+of+Variety+Vault+3D+in+Ames%2C+Iowa;Building+AI+agents+that+run+a+real+shop;Order-flow+tools+for+NinjaTrader+8" alt="Owner of Variety Vault 3D in Ames, Iowa. Building AI agents that run a real shop. Order-flow tools for NinjaTrader 8."></p>
@@ -31,9 +31,10 @@ I run **[Variety Vault 3D](https://www.vaultshop.us)** out of Ames, Iowa: produc
 
 The thing I actually spend my time on is a small fleet of Claude and Codex agents, running across seven machines, that operate the shop: order intake, quoting, printer monitoring, the books. It's a distributed system that happens to have a 3D printer as one of its peripherals. I also build order-flow tools for NinjaTrader 8 in C#, and lately I've been down a tensor-network rabbit hole that has nothing to do with either.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,rust,cs,ts,react,fastapi,postgres,cpp,arduino,raspberrypi,powershell,bash,cloudflare,github,blender" alt="Python, Rust, C#, TypeScript, React, FastAPI, PostgreSQL, C++, Arduino, Raspberry Pi, PowerShell, Bash, Cloudflare, GitHub, Blender">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg">
+  <img src="assets/toolbox-light.svg" width="100%" alt="Toolbox. Languages: Python, Rust, C#, TypeScript, C++, PowerShell, Bash. Web and data: React, Vite, Tailwind, Node.js, FastAPI, Postgres, Cloudflare. Agents and automation: Claude, OpenAI, GitHub. Hardware and making: Raspberry Pi, Arduino, Bambu Lab, Blender.">
+</picture>
 
 ## Event log
 

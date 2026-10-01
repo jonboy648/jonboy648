@@ -1,79 +1,85 @@
-<p align="center"><a href="https://www.vaultshop.us"><img src="assets/terminal-promo.svg" alt="Jon Cackler, Variety Vault 3D: quoting, the agent team, the print fleet and order flow" width="100%"></a></p>
-
-<p align="center">
-<a href="https://www.vaultshop.us"><img src="https://img.shields.io/badge/vaultshop.us-Variety_Vault_3D-E0612B?style=for-the-badge" alt="vaultshop.us"></a>
-<a href="https://github.com/jonboy648/jonboy648/issues/new"><img src="https://img.shields.io/badge/Say_hi-open_an_issue-1F3A5F?style=for-the-badge&logo=github&logoColor=white" alt="Say hi"></a>
-<img src="https://img.shields.io/badge/Open_to-collaborate-2EA043?style=for-the-badge" alt="Open to collaborate">
-</p>
-
-I run **Variety Vault 3D**, a 3D printing and manufacturing shop in Ames, Iowa, and I write the software that runs it. Production parts, fixtures and ear tags on one side of the shop; AI agents, printer dashboards and trading tools on the other.
-
-## What I build
-
-| 🏭 Variety Vault 3D | 🤖 Shop automation | 📈 Trading tools |
-|---|---|---|
-| FDM, resin and SLS production: short runs, fixtures, replacement parts and custom work | A team of Claude and Codex agents across seven machines that take orders, quote jobs, watch the printers and keep the books | Order-flow indicators and strategies for NinjaTrader 8, written in C# |
-
-## Toolbox
-
-<p align="center"><b>Code</b></p>
-
-<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Crust%2Ccs%2Cdotnet%2Cts%2Cnodejs%2Creact%2Cvite%2Ctailwind%2Cfastapi%2Cpostgres%2Ccpp%2Carduino%2Craspberrypi%2Cpowershell%2Cbash%2Ccloudflare%2Cgithubactions%2Cgit%2Cgithub%2Cvscode%2Cblender%2Clinux%2Cwindows&perline=12&theme=dark">
-  <img src="https://skillicons.dev/icons?i=py,rust,cs,dotnet,ts,nodejs,react,vite,tailwind,fastapi,postgres,cpp,arduino,raspberrypi,powershell,bash,cloudflare,githubactions,git,github,vscode,blender,linux,windows&perline=12&theme=light" alt="Python, Rust, C#, .NET, TypeScript, Node.js, React, Vite, Tailwind, FastAPI, PostgreSQL, C++, Arduino, Raspberry Pi, PowerShell, Bash, Cloudflare, GitHub Actions, Git, GitHub, VS Code, Blender, Linux, Windows">
-</picture>
-</p>
-
-<p align="center"><b>Shop floor and business</b></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Bambu_Lab-00AE42?style=for-the-badge&logo=bambulab&logoColor=white" alt="Bambu Lab">
-<img src="https://img.shields.io/badge/Formlabs_Fuse_1+-111111?style=for-the-badge" alt="Formlabs Fuse 1+">
-<img src="https://img.shields.io/badge/Phrozen_resin-7B3FE4?style=for-the-badge" alt="Phrozen resin">
-<img src="https://img.shields.io/badge/SolidWorks-0A5AA0?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks">
-<img src="https://img.shields.io/badge/NinjaTrader_8-1F3A5F?style=for-the-badge" alt="NinjaTrader 8">
-<br>
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify">
-<img src="https://img.shields.io/badge/QuickBooks-2CA01C?style=for-the-badge&logo=quickbooks&logoColor=white" alt="QuickBooks">
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
-<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge" alt="OpenAI Codex">
-<img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs">
-</p>
-
-## Printed contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/printed-contributions-dark.svg">
-  <img src="assets/printed-contributions-light.svg" alt="A year of contributions, drawn as a 3D print" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD%2C100:30D6C8&height=170&section=header&text=Jon%20Cackler&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=36&desc=Variety%20Vault%203D%20%C2%B7%20custom%20tools%20%C2%B7%20an%20agent%20fleet%20that%20runs%20the%20shop&descAlignY=58&descSize=15">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A3FD6%2C100:0E9488&height=170&section=header&text=Jon%20Cackler&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=36&desc=Variety%20Vault%203D%20%C2%B7%20custom%20tools%20%C2%B7%20an%20agent%20fleet%20that%20runs%20the%20shop&descAlignY=58&descSize=15">
 </picture>
 
+<p align="center"><sub>Ames, Iowa &middot; <a href="https://www.vaultshop.us">vaultshop.us</a> &middot; <a href="https://github.com/jonboy648/jonboy648/issues/new">say hi</a></sub></p>
+
+## A worldline, not a grid
+
+Every GitHub profile draws the same 7&times;53 grid of squares. Below is a different projection of the same data: one continuous **worldline** through the last year, spiking on days with commits, the way a physicist would sketch a particle's path through spacetime instead of a spreadsheet of it. The brightest points are the busiest days. It's named after the physics it's plotting *and* after the repo at the bottom of this page.
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=jonboy648&theme=github-dark-blue&hide_border=true">
-  <img src="https://streak-stats.demolab.com/?user=jonboy648&hide_border=true" alt="GitHub contribution streak for jonboy648" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/worldline-dark.svg">
+  <img src="assets/worldline-light.svg" alt="A glowing worldline tracing Jon's GitHub contribution history, spiking upward on high-activity days against a faint spacetime grid">
 </picture>
 
-## Open source
+Every number on that trace comes straight from the GitHub contribution calendar. Nothing staged, nothing sampled.
 
-I'm releasing the tools behind this profile, starting with the printed-contributions graphic above, now its own project. Pull requests I get merged into other projects land here automatically.
+## What I actually build
 
-<!-- OPEN-SOURCE:START -->
-- **[printed-contributions](https://github.com/jonboy648/printed-contributions)**: a GitHub Action that draws your contribution year as a 3D print, like the one above
-- First merged pull request to another project: coming up
-<!-- OPEN-SOURCE:END -->
+I run **[Variety Vault 3D](https://www.vaultshop.us)** out of Ames, Iowa: production parts, fixtures and custom prints across a Bambu Lab X1C and H2D, Phrozen resin, and a Formlabs Fuse 1+ SLS. The shop is also the first customer for everything else here.
 
-## Let's connect
+The thing I actually spend my time on is a small fleet of Claude and Codex agents, running across seven machines, that operate the shop: order intake, quoting, printer monitoring, the books. It's a distributed system that happens to have a 3D printer as one of its peripherals. I also build order-flow tools for NinjaTrader 8 in C#, and lately I've been down a tensor-network rabbit hole that has nothing to do with either.
 
-I'm looking for people building in the same corners:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,rust,cs,ts,react,fastapi,postgres,cpp,arduino,raspberrypi,powershell,bash,cloudflare,github,blender" alt="Python, Rust, C#, TypeScript, React, FastAPI, PostgreSQL, C++, Arduino, Raspberry Pi, PowerShell, Bash, Cloudflare, GitHub, Blender">
+</p>
 
-- 3D printing, small-batch manufacturing and print farms
-- AI agents that run real operations, not demos
-- Futures order flow and NinjaTrader tools
+## Event log
 
-I'm also looking for good first issues in OrcaSlicer, Klipper and MCP servers. If your project needs a hand from someone who runs printers all day, point me at one.
+Four points along the worldline worth a closer look:
 
-If that's you, follow, open an issue to say hi, or find the shop at [vaultshop.us](https://www.vaultshop.us).
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=jonboy648&color=E0612B&style=flat-square&label=Profile+views" alt="Profile views"></p>
+**[`printed-contributions`](https://github.com/jonboy648/printed-contributions)**
+An open-source GitHub Action that draws your contribution year as a 3D print.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:E0612B&height=120&section=footer" width="100%" alt="">
+![language](https://img.shields.io/github/languages/top/jonboy648/printed-contributions?style=flat-square&color=6A5ACD&label=)
+![stars](https://img.shields.io/github/stars/jonboy648/printed-contributions?style=flat-square&color=6A5ACD&label=%E2%98%85)
+
+</td>
+<td width="50%" valign="top">
+
+**[`order-flow-bot`](https://github.com/jonboy648/order-flow-bot)**
+A NinjaTrader order-flow bot, 96 commits deep. Where the trading side of this profile lives.
+
+![language](https://img.shields.io/github/languages/top/jonboy648/order-flow-bot?style=flat-square&color=30D6C8&label=)
+![stars](https://img.shields.io/github/stars/jonboy648/order-flow-bot?style=flat-square&color=30D6C8&label=%E2%98%85)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[`trust-me-bro`](https://github.com/jonboy648/trust-me-bro)**
+A NinjaTrader add-on. *"Think Less. Trade Worse."* The name is the whole pitch.
+
+![language](https://img.shields.io/github/languages/top/jonboy648/trust-me-bro?style=flat-square&color=FFD36E&label=)
+![stars](https://img.shields.io/github/stars/jonboy648/trust-me-bro?style=flat-square&color=FFD36E&label=%E2%98%85)
+
+</td>
+<td width="50%" valign="top">
+
+**[`quantum-worldline`](https://github.com/jonboy648/quantum-worldline)**
+MERA / tensor-network research. The repo that lent this whole profile its physics.
+
+![language](https://img.shields.io/github/languages/top/jonboy648/quantum-worldline?style=flat-square&color=9A6AE0&label=)
+![stars](https://img.shields.io/github/stars/jonboy648/quantum-worldline?style=flat-square&color=9A6AE0&label=%E2%98%85)
+
+</td>
+</tr>
+</table>
+
+## Looking for collisions
+
+- People building in **3D printing and manufacturing**
+- **AI agents** running real operations, not demos
+- **Futures order flow**: the market-microstructure kind, not the signals-service kind
+- Good first issues in **OrcaSlicer**, **Klipper**, or **MCP servers**
+
+If any of that is you, the worldline has room for another intersection &rarr; [open an issue and say hi](https://github.com/jonboy648/jonboy648/issues/new).
+
+<p align="center"><sub><a href="https://www.vaultshop.us">vaultshop.us</a></sub></p>

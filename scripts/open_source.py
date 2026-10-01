@@ -52,4 +52,7 @@ if __name__ == "__main__":
         path = sys.argv[1]
         items = json.load(sys.stdin).get("items", [])
         text = open(path, encoding="utf-8").read()
+        if START not in text:
+            print("README has no Open source list; nothing to update.")
+            sys.exit(0)
         open(path, "w", encoding="utf-8").write(rewrite(text, items))

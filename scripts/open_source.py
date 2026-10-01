@@ -13,7 +13,7 @@ START, END = "<!-- OPEN-SOURCE:START -->", "<!-- OPEN-SOURCE:END -->"
 # Our own account and org never count as "other people's projects", and their
 # private repos must never be named on a public page, whatever the token can see.
 OWN = {"jonboy648", "varietyvaultllc"}
-RELEASES = ["- **printed-contributions**: a GitHub Action that draws your contribution year as a 3D print *(releasing soon)*"]
+RELEASES = ["- **[printed-contributions](https://github.com/jonboy648/printed-contributions)**: a GitHub Action that draws your contribution year as a 3D print, like the one above"]
 
 
 def lines_for(items):

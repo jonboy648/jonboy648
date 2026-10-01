@@ -55,10 +55,10 @@ I run **Variety Vault 3D**, a 3D printing and manufacturing shop in Ames, Iowa, 
 
 ## Open source
 
-I'm releasing the tools behind this profile, starting with the printed-contributions graphic above. Pull requests I get merged into other projects land here automatically.
+I'm releasing the tools behind this profile, starting with the printed-contributions graphic above, now its own project. Pull requests I get merged into other projects land here automatically.
 
 <!-- OPEN-SOURCE:START -->
-- **printed-contributions**: a GitHub Action that draws your contribution year as a 3D print *(releasing soon)*
+- **[printed-contributions](https://github.com/jonboy648/printed-contributions)**: a GitHub Action that draws your contribution year as a 3D print, like the one above
 - First merged pull request to another project: coming up
 <!-- OPEN-SOURCE:END -->
 

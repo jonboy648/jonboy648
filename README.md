@@ -3,6 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A3FD6%2C100:0E9488&height=170&section=header&text=Jon%20Cackler&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=36&desc=Variety%20Vault%203D%20%C2%B7%20custom%20tools%20%C2%B7%20an%20agent%20fleet%20that%20runs%20the%20shop&descAlignY=58&descSize=15">
 </picture>
 
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&size=18&pause=1400&color=30D6C8&center=true&vCenter=true&width=640&lines=Owner+of+Variety+Vault+3D+in+Ames%2C+Iowa;Building+AI+agents+that+run+a+real+shop;Order-flow+tools+for+NinjaTrader+8" alt="Owner of Variety Vault 3D in Ames, Iowa. Building AI agents that run a real shop. Order-flow tools for NinjaTrader 8."></p>
+
 <p align="center"><sub>Ames, Iowa &middot; <a href="https://www.vaultshop.us">vaultshop.us</a> &middot; <a href="https://github.com/jonboy648/jonboy648/issues/new">say hi</a></sub></p>
 
 ## A worldline, not a grid
@@ -15,6 +17,13 @@ Every GitHub profile draws the same 7&times;53 grid of squares. Below is a diffe
 </picture>
 
 Every number on that trace comes straight from the GitHub contribution calendar. Nothing staged, nothing sampled.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=jonboy648&hide_border=true&background=00000000&ring=30D6C8&fire=6A5ACD&currStreakNum=E6EDF3&sideNums=30D6C8&currStreakLabel=30D6C8&sideLabels=9198A1&dates=9198A1&stroke=30363D">
+  <img src="https://streak-stats.demolab.com/?user=jonboy648&hide_border=true&background=00000000&ring=0E9488&fire=5A3FD6&currStreakNum=1F2328&sideNums=0E9488&currStreakLabel=0E9488&sideLabels=59636E&dates=59636E&stroke=D0D7DE" alt="Contribution streak for jonboy648" width="100%">
+</picture>
+
+Want this line on your own profile? It's an open-source Action: **[jonboy648/worldlines](https://github.com/jonboy648/worldlines)**.
 
 ## What I actually build
 

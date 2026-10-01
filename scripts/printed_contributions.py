@@ -52,7 +52,10 @@ def draw(cal, theme):
     for i, w in enumerate(weeks):
         x = LEFT + i * (CELL + GAP)
         month = int(w["contributionDays"][0]["date"][5:7])
-        if month != last_month and i < len(weeks) - 2:
+        # label a month only if it runs at least three columns, so a partial first
+        # month never prints on top of the next one ("SepOct")
+        ahead = i + 2 < len(weeks) and int(weeks[i + 2]["contributionDays"][0]["date"][5:7]) == month
+        if month != last_month and ahead:
             out.append(f'<text x="{x}" y="{TOP - 8}">{MONTHS[month - 1]}</text>')
             last_month = month
         out.append(f'<g class="col" style="animation-delay:{i * STEP:.2f}s">')

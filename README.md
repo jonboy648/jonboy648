@@ -20,7 +20,7 @@ I run **Variety Vault 3D**, a 3D printing and manufacturing shop in Ames, Iowa, 
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,rust,cs,dotnet,ts,nodejs,react,vite,tailwind,fastapi,postgres,cpp,arduino,raspberrypi,powershell,bash,cloudflare,githubactions,git,github,vscode,blender,linux,windows&perline=12&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Crust%2Ccs%2Cdotnet%2Cts%2Cnodejs%2Creact%2Cvite%2Ctailwind%2Cfastapi%2Cpostgres%2Ccpp%2Carduino%2Craspberrypi%2Cpowershell%2Cbash%2Ccloudflare%2Cgithubactions%2Cgit%2Cgithub%2Cvscode%2Cblender%2Clinux%2Cwindows&perline=12&theme=dark">
   <img src="https://skillicons.dev/icons?i=py,rust,cs,dotnet,ts,nodejs,react,vite,tailwind,fastapi,postgres,cpp,arduino,raspberrypi,powershell,bash,cloudflare,githubactions,git,github,vscode,blender,linux,windows&perline=12&theme=light" alt="Python, Rust, C#, .NET, TypeScript, Node.js, React, Vite, Tailwind, FastAPI, PostgreSQL, C++, Arduino, Raspberry Pi, PowerShell, Bash, Cloudflare, GitHub Actions, Git, GitHub, VS Code, Blender, Linux, Windows">
 </picture>
 </p>

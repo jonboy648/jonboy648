@@ -18,12 +18,12 @@ jobs:
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
 
-      - name: Worldline
+      - name: Printed contributions
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           gh api graphql -f query='query{user(login:"jonboy648"){contributionsCollection{contributionCalendar{totalContributions weeks{contributionDays{date contributionCount}}}}}}' > "$RUNNER_TEMP/calendar.json"
-          python3 scripts/generate_worldline.py "$RUNNER_TEMP/calendar.json" assets
+          python3 scripts/printed_contributions.py "$RUNNER_TEMP/calendar.json" assets
 
       - name: Open source list
         env:

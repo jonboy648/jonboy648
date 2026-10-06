@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 792 178" width="792" height="178" role="img" aria-label="3379 contributions in the last year">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 792 178" width="792" height="178" role="img" aria-label="3522 contributions in the last year">
 <style>
 .col{opacity:0;transform-box:fill-box;transform-origin:50% 100%;animation:lay .35s ease-out forwards}
 @keyframes lay{from{opacity:0;transform:scaleY(.2)}to{opacity:1;transform:scaleY(1)}}
@@ -227,7 +227,7 @@ text{font-family:Consolas,Menlo,monospace;font-size:10px;fill:#59636E}
 <rect x="356" y="88" width="11" height="11" rx="2" fill="#EBEEF1"><title>2026-03-18: 0</title></rect>
 <rect x="356" y="102" width="11" height="11" rx="2" fill="#EBEEF1"><title>2026-03-19: 0</title></rect>
 <rect x="356" y="116" width="11" height="11" rx="2" fill="#EBEEF1"><title>2026-03-20: 0</title></rect>
-<rect x="356" y="130" width="11" height="11" rx="2" fill="#D9582A"><title>2026-03-21: 9</title></rect>
+<rect x="356" y="130" width="11" height="11" rx="2" fill="#EE9A73"><title>2026-03-21: 9</title></rect>
 </g>
 <g class="col" style="animation-delay:1.68s">
 <rect x="370" y="46" width="11" height="11" rx="2" fill="#9E3511"><title>2026-03-22: 47</title></rect>
@@ -245,7 +245,7 @@ text{font-family:Consolas,Menlo,monospace;font-size:10px;fill:#59636E}
 <rect x="384" y="88" width="11" height="11" rx="2" fill="#9E3511"><title>2026-04-01: 27</title></rect>
 <rect x="384" y="102" width="11" height="11" rx="2" fill="#D9582A"><title>2026-04-02: 15</title></rect>
 <rect x="384" y="116" width="11" height="11" rx="2" fill="#F6C9B3"><title>2026-04-03: 3</title></rect>
-<rect x="384" y="130" width="11" height="11" rx="2" fill="#D9582A"><title>2026-04-04: 9</title></rect>
+<rect x="384" y="130" width="11" height="11" rx="2" fill="#EE9A73"><title>2026-04-04: 9</title></rect>
 </g>
 <text x="398" y="38">Apr</text>
 <g class="col" style="animation-delay:1.82s">
@@ -345,7 +345,7 @@ text{font-family:Consolas,Menlo,monospace;font-size:10px;fill:#59636E}
 <rect x="538" y="60" width="11" height="11" rx="2" fill="#EBEEF1"><title>2026-06-15: 0</title></rect>
 <rect x="538" y="74" width="11" height="11" rx="2" fill="#D9582A"><title>2026-06-16: 11</title></rect>
 <rect x="538" y="88" width="11" height="11" rx="2" fill="#EE9A73"><title>2026-06-17: 7</title></rect>
-<rect x="538" y="102" width="11" height="11" rx="2" fill="#D9582A"><title>2026-06-18: 9</title></rect>
+<rect x="538" y="102" width="11" height="11" rx="2" fill="#EE9A73"><title>2026-06-18: 9</title></rect>
 <rect x="538" y="116" width="11" height="11" rx="2" fill="#D9582A"><title>2026-06-19: 21</title></rect>
 <rect x="538" y="130" width="11" height="11" rx="2" fill="#D9582A"><title>2026-06-20: 15</title></rect>
 </g>
@@ -411,11 +411,11 @@ text{font-family:Consolas,Menlo,monospace;font-size:10px;fill:#59636E}
 <rect x="636" y="74" width="11" height="11" rx="2" fill="#9E3511"><title>2026-08-04: 25</title></rect>
 <rect x="636" y="88" width="11" height="11" rx="2" fill="#9E3511"><title>2026-08-05: 31</title></rect>
 <rect x="636" y="102" width="11" height="11" rx="2" fill="#D9582A"><title>2026-08-06: 17</title></rect>
-<rect x="636" y="116" width="11" height="11" rx="2" fill="#D9582A"><title>2026-08-07: 9</title></rect>
+<rect x="636" y="116" width="11" height="11" rx="2" fill="#EE9A73"><title>2026-08-07: 9</title></rect>
 <rect x="636" y="130" width="11" height="11" rx="2" fill="#F6C9B3"><title>2026-08-08: 2</title></rect>
 </g>
 <g class="col" style="animation-delay:3.08s">
-<rect x="650" y="46" width="11" height="11" rx="2" fill="#D9582A"><title>2026-08-09: 9</title></rect>
+<rect x="650" y="46" width="11" height="11" rx="2" fill="#EE9A73"><title>2026-08-09: 9</title></rect>
 <rect x="650" y="60" width="11" height="11" rx="2" fill="#D9582A"><title>2026-08-10: 19</title></rect>
 <rect x="650" y="74" width="11" height="11" rx="2" fill="#D9582A"><title>2026-08-11: 11</title></rect>
 <rect x="650" y="88" width="11" height="11" rx="2" fill="#EE9A73"><title>2026-08-12: 4</title></rect>
@@ -481,19 +481,20 @@ text{font-family:Consolas,Menlo,monospace;font-size:10px;fill:#59636E}
 <g class="col" style="animation-delay:3.57s">
 <rect x="748" y="46" width="11" height="11" rx="2" fill="#D9582A"><title>2026-09-27: 15</title></rect>
 <rect x="748" y="60" width="11" height="11" rx="2" fill="#9E3511"><title>2026-09-28: 187</title></rect>
-<rect x="748" y="74" width="11" height="11" rx="2" fill="#9E3511"><title>2026-09-29: 120</title></rect>
+<rect x="748" y="74" width="11" height="11" rx="2" fill="#9E3511"><title>2026-09-29: 121</title></rect>
 <rect x="748" y="88" width="11" height="11" rx="2" fill="#9E3511"><title>2026-09-30: 68</title></rect>
-<rect x="748" y="102" width="11" height="11" rx="2" fill="#9E3511"><title>2026-10-01: 179</title></rect>
+<rect x="748" y="102" width="11" height="11" rx="2" fill="#9E3511"><title>2026-10-01: 194</title></rect>
 <rect x="748" y="116" width="11" height="11" rx="2" fill="#9E3511"><title>2026-10-02: 124</title></rect>
 <rect x="748" y="130" width="11" height="11" rx="2" fill="#D9582A"><title>2026-10-03: 21</title></rect>
 </g>
 <g class="col" style="animation-delay:3.64s">
 <rect x="762" y="46" width="11" height="11" rx="2" fill="#9E3511"><title>2026-10-04: 29</title></rect>
-<rect x="762" y="60" width="11" height="11" rx="2" fill="#EE9A73"><title>2026-10-05: 5</title></rect>
+<rect x="762" y="60" width="11" height="11" rx="2" fill="#9E3511"><title>2026-10-05: 121</title></rect>
+<rect x="762" y="74" width="11" height="11" rx="2" fill="#D9582A"><title>2026-10-06: 11</title></rect>
 </g>
 <text x="2" y="69">Mon</text>
 <text x="2" y="97">Wed</text>
 <text x="2" y="125">Fri</text>
 <g class="noz"><rect x="28" y="6" width="22" height="12" rx="2" fill="#D5DBE2"/><path d="M32 18 L46 18 L41 28 L37 28 Z" fill="#5B6675"/><circle cx="39" cy="31" r="2.2" fill="#9E3511"/></g>
-<text x="34" y="168"><tspan style="fill:#1F2328;font-weight:bold">3,379</tspan> contributions in the last year, private work included</text>
+<text x="34" y="168"><tspan style="fill:#1F2328;font-weight:bold">3,522</tspan> contributions in the last year, private work included</text>
 </svg>

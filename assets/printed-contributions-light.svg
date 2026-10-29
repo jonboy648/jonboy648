@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 792 178" width="792" height="178" role="img" aria-label="5317 contributions in the last year">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 792 178" width="792" height="178" role="img" aria-label="5347 contributions in the last year">
 <style>
 .col{opacity:0;transform-box:fill-box;transform-origin:50% 100%;animation:lay .35s ease-out forwards}
 @keyframes lay{from{opacity:0;transform:scaleY(.2)}to{opacity:1;transform:scaleY(1)}}
@@ -482,8 +482,8 @@ text{font-family:Consolas,Menlo,monospace;font-size:10px;fill:#59636E}
 <rect x="748" y="46" width="11" height="11" rx="2" fill="#9E3511"><title>2026-10-18: 135</title></rect>
 <rect x="748" y="60" width="11" height="11" rx="2" fill="#9E3511"><title>2026-10-19: 79</title></rect>
 <rect x="748" y="74" width="11" height="11" rx="2" fill="#9E3511"><title>2026-10-20: 72</title></rect>
-<rect x="748" y="88" width="11" height="11" rx="2" fill="#9E3511"><title>2026-10-21: 109</title></rect>
-<rect x="748" y="102" width="11" height="11" rx="2" fill="#9E3511"><title>2026-10-22: 108</title></rect>
+<rect x="748" y="88" width="11" height="11" rx="2" fill="#9E3511"><title>2026-10-21: 112</title></rect>
+<rect x="748" y="102" width="11" height="11" rx="2" fill="#9E3511"><title>2026-10-22: 110</title></rect>
 <rect x="748" y="116" width="11" height="11" rx="2" fill="#9E3511"><title>2026-10-23: 65</title></rect>
 <rect x="748" y="130" width="11" height="11" rx="2" fill="#9E3511"><title>2026-10-24: 87</title></rect>
 </g>
@@ -491,11 +491,12 @@ text{font-family:Consolas,Menlo,monospace;font-size:10px;fill:#59636E}
 <rect x="762" y="46" width="11" height="11" rx="2" fill="#D9582A"><title>2026-10-25: 23</title></rect>
 <rect x="762" y="60" width="11" height="11" rx="2" fill="#F6C9B3"><title>2026-10-26: 2</title></rect>
 <rect x="762" y="74" width="11" height="11" rx="2" fill="#D9582A"><title>2026-10-27: 27</title></rect>
-<rect x="762" y="88" width="11" height="11" rx="2" fill="#EE9A73"><title>2026-10-28: 6</title></rect>
+<rect x="762" y="88" width="11" height="11" rx="2" fill="#D9582A"><title>2026-10-28: 31</title></rect>
+<rect x="762" y="102" width="11" height="11" rx="2" fill="#EBEEF1"><title>2026-10-29: 0</title></rect>
 </g>
 <text x="2" y="69">Mon</text>
 <text x="2" y="97">Wed</text>
 <text x="2" y="125">Fri</text>
 <g class="noz"><rect x="28" y="6" width="22" height="12" rx="2" fill="#D5DBE2"/><path d="M32 18 L46 18 L41 28 L37 28 Z" fill="#5B6675"/><circle cx="39" cy="31" r="2.2" fill="#9E3511"/></g>
-<text x="34" y="168"><tspan style="fill:#1F2328;font-weight:bold">5,317</tspan> contributions in the last year, private work included</text>
+<text x="34" y="168"><tspan style="fill:#1F2328;font-weight:bold">5,347</tspan> contributions in the last year, private work included</text>
 </svg>
